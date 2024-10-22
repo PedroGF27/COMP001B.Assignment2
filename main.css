@@ -34,7 +34,9 @@ p {
 }
 
 .album-art {
-
+	border: 1px red solid;
+	padding: 15px;
+	margin: 15px;
 }
 
 .clear {
@@ -42,7 +44,9 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	border: 1px red solid;
+	padding: 15px;
+	margin: 15px;
 }
 
 .record-label {
@@ -54,7 +58,9 @@ p {
 }
 
 #about-photo {
-
+	border: 1px red solid;
+	padding: 15px;
+	margin: 15px;
 }
 
 #copyright {
@@ -74,5 +80,4 @@ p {
 	border-color: red;
 	padding: 15px;
 	margin: 15px;
-
 }
