@@ -30,10 +30,9 @@ h3 {
 }
 
 p {
-	display: inline-block;
-	width: 400px;
-	padding: 0;
-	margin: 0;
+	float: right;
+	width: 900px;
+	padding: 10px;
 }
 
 .album-art {
@@ -58,10 +57,10 @@ p {
 }
 
 .track-list {
-	float: inline-end;
-	width: 1300px;
-	margin: auto;
-	padding: auto;
+	float: right;
+	width: 300px;
+
+	padding: 10px;
 }
 
 #about-photo {
@@ -87,4 +86,5 @@ p {
 	border-color: red;
 	padding: 15px;
 	margin: 15px;
+	float: left;
 }
